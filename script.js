@@ -1,4 +1,3 @@
-alert("Seja bem vindo")
+var nome 'André'
+console.log(typeof(nome))
 
-var vOuf = false;
-console.log(vOuf);
